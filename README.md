@@ -6,8 +6,13 @@
 This video looks promising to help us setup vscode+reaper debugging:
 https://youtu.be/dAMQXGMHl2M?si=Uc-MMMOEfWiOCfUW
 
-- Daniel Lumertz misses a couple of steps: to install `Mavriq Lua Sockets` one must first add the repo which hosts it to **ReaPack**:  
-https://github.com/mavriq-dev/public-reascripts/raw/master/index.xml
+
+- The video misses some bits, so refer to Daniel's README.md, which I forked:
+`git clone git@github.com:Stabledog/DanielLumertz-Scripts.git`
+
+- Need to import into ReaPack his stuff:
+https://raw.githubusercontent.com/daniellumertz/DanielLumertz-Scripts/master/index.xml
+
 
 - Daniel mentions additional resource: [Reaper CLI](https://github.com/ReaTeam/Doc/blob/master/REAPER-CLI.md)
 
